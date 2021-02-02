@@ -70,4 +70,4 @@ let prefix = prefixes[message.guild.id].prefixes;
       
       
 
-client.login('ODAzNDY1MzczNDQ0NzM0OTk2.YA-LcA.Byv6VpTqRefNgPSqPuLflHQ4Mgc');
+client.login('');
